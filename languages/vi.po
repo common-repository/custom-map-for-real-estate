@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-08-08 09:02+0700\n"
+"PO-Revision-Date: 2019-08-08 09:09+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: index.php\n"
+"X-Poedit-SearchPath-1: admin/inc/add_shortcode.php\n"
+"X-Poedit-SearchPath-2: admin/inc/init.php\n"
+
+#: admin/inc/init.php:10 admin/inc/init.php:11 admin/inc/init.php:35
+msgid "Map For RE"
+msgstr "Bản đồ mặt bằng"
+
+#: admin/inc/init.php:12
+msgid "Item Archives"
+msgstr "Mục lưu trữ"
+
+#: admin/inc/init.php:13
+msgid "Parent Item:"
+msgstr ""
+
+#: admin/inc/init.php:14
+msgid "All Items"
+msgstr "Tất cả các mục"
+
+#: admin/inc/init.php:15
+msgid "Add New Item"
+msgstr "Thêm mới"
+
+#: admin/inc/init.php:16
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: admin/inc/init.php:17
+msgid "New Item"
+msgstr "Thêm mới"
+
+#: admin/inc/init.php:18
+msgid "Edit Item"
+msgstr "Chỉnh sửa mục"
+
+#: admin/inc/init.php:19
+msgid "Update Item"
+msgstr "Cập nhật"
+
+#: admin/inc/init.php:20
+msgid "View Item"
+msgstr "Xem"
+
+#: admin/inc/init.php:21
+msgid "Search Item"
+msgstr "Tìm kiếm"
+
+#: admin/inc/init.php:22
+msgid "Not found"
+msgstr "Không tìm thấy"
+
+#: admin/inc/init.php:23
+msgid "Not found in Trash"
+msgstr "Không tìm thấy trong thùng rác"
+
+#: admin/inc/init.php:24
+msgid "Featured Image"
+msgstr "Tải ảnh lên"
+
+#: admin/inc/init.php:25
+msgid "Set featured image"
+msgstr "Chọn hình ảnh"
+
+#: admin/inc/init.php:26
+msgid "Remove featured image"
+msgstr "Xoá ảnh đại diện"
+
+#: admin/inc/init.php:27
+msgid "Use as featured image"
+msgstr "Sử dụng làm ảnh đại diện"
+
+#: admin/inc/init.php:28
+msgid "Insert into item"
+msgstr "Chèn"
+
+#: admin/inc/init.php:29
+msgid "Uploaded to this item"
+msgstr "Tải lên"
+
+#: admin/inc/init.php:30
+msgid "Items list"
+msgstr "Danh sách"
+
+#: admin/inc/init.php:31
+msgid "Items list navigation"
+msgstr ""
+
+#: admin/inc/init.php:32
+msgid "Filter items list"
+msgstr "Danh sách lọc"
+
+#: admin/inc/init.php:86
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: admin/inc/init.php:87 index.php:64
+msgid "Shortcode"
+msgstr "Mã"
+
+#: admin/inc/init.php:88
+msgid "Date"
+msgstr "Ngày"
+
+#: index.php:56
+msgid "Map Data"
+msgstr "Dữ liệu bản đồ"
+
+#: index.php:96
+msgid "Upload Image"
+msgstr "Tải ảnh lên"
+
+#: index.php:98
+msgid "Add Point"
+msgstr "Thêm điểm"
+
+#: index.php:102
+msgid "Drag the Point to move, Click on it to add/edit information"
+msgstr "Bấm giữ Điểm để di chuyển. Bấm vào Điểm để thay đổi thông tin"
+
+#: index.php:158
+msgid "Copy shortcode to view"
+msgstr "Sao chép mã  để hiển thị"
+
+#: index.php:161
+msgid "Copy"
+msgstr "Sao chép"
+
+#: index.php:164
+msgid "Publish to view shortcode"
+msgstr "Xuất bản để xem shortcode"
+
+#: index.php:257 index.php:349
+msgid "Select image"
+msgstr "Chọn hình ảnh"
+
+#: index.php:258
+msgid "Select"
+msgstr "Chọn hình ảnh"
+
+#: index.php:306
+msgid "Content"
+msgstr "Nội dung"
+
+#: index.php:311
+msgid "Room Title"
+msgstr "Tên phòng"
+
+#: index.php:312
+msgid "Luxury, Deluxe..."
+msgstr ""
+
+#: index.php:315
+msgid "Room Summary"
+msgstr "Tóm tắt"
+
+#: index.php:316
+msgid "Total size: 35m2. Available for 2 people..."
+msgstr "Diện tích: 35m2. Có sẵn cho 2 người..."
+
+#: index.php:319
+msgid "Content Type"
+msgstr "Nội dung"
+
+#: index.php:321 index.php:328
+msgid "Link"
+msgstr "Đường dẫn"
+
+#: index.php:321
+msgid "Description"
+msgstr "Mô tả"
+
+#: index.php:332
+msgid "Room Images"
+msgstr "Ảnh của phòng"
+
+#: index.php:373
+msgid "Delete"
+msgstr "Xóa"
+
+#: index.php:374
+msgid "Save"
+msgstr "Lưu"
+
+#: index.php:375
+msgid "Close"
+msgstr "Đóng"
